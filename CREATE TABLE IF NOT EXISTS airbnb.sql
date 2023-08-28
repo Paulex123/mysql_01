@@ -7,4 +7,4 @@ CREATE TABLE IF NOT EXISTS airbnb.user (
 INSERT INTO airbnb.user (registration_no, name, phone)
 VALUES ('reg001', 'Kolawole Paul', 'O7046467448'),
  ('reg002', 'Bill Gate', '+1234567890'),
- ('reg002', 'Balogun Ayomposi', '08163069188');
+ ('reg003', 'John Berry', '08163069188');
